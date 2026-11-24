@@ -1,0 +1,8 @@
+﻿indicator_id,indicator_name,ultimo_periodo,ultimo_valor,ultima_variacion_quincenal,ultima_variacion_anual,numero_observaciones_historicas,minimo_historico,percentil_10,percentil_25,mediana,percentil_75,percentil_90,maximo_historico,percentil_dato_actual,clasificacion
+910422,Mercancías,1Q nov. 2026,152.509915,-0.2534,3.1618,908,1.7492,2.7394,3.6304,5.1126,9.8465,19.3357,64.2913,17.07,Rango inferior
+910423,Servicios,1Q nov. 2026,140.697344,0.0515,4.1708,908,1.0505,2.4041,3.4258,4.5154,13.253,25.3369,61.5479,44.05,Rango habitual
+910424,Inflación no subyacente,1Q nov. 2026,151.483654,2.7181,4.8959,908,-1.9982,2.3859,4.4979,7.0303,11.4359,22.7224,58.385,28.96,Rango habitual
+910426,Energéticos y tarifas autorizadas por el gobierno,1Q nov. 2026,135.663888,2.3519,3.5251,908,-9.4526,1.6422,3.7375,6.8286,13.114,28.5945,56.8961,22.03,Rango inferior
+910425,Agropecuarios,1Q nov. 2026,172.964343,3.1761,6.6477,908,-5.4437,1.2205,3.6127,6.9563,12.4407,21.3503,59.4355,47.8,Rango habitual
+910420,Inflación general,1Q nov. 2026,148.11,0.541,3.9587,908,2.0026,3.283,3.9455,4.987,10.0828,22.1054,53.0956,25.33,Rango habitual
+910421,Inflación subyacente,1Q nov. 2026,146.992699,-0.0963,3.6799,908,2.2296,3.1618,3.6597,4.459,11.6615,21.4432,51.2417,25.33,Rango habitual
